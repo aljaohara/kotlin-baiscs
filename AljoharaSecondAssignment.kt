@@ -1,6 +1,8 @@
 package com.example.myapplication
 
 fun main() {
+  
+    
 
     for (i in 0..100) {
         println(i)
@@ -21,6 +23,15 @@ fun main() {
        }
        temp--
     }
+    
+    /*
+    false && false = false 
+    10 % 3 = 1 
+    false || true = true
+    5-3*2= 1 
+    3 != 2 = true 
+    (6+6) / 3 = 4
+   */
 
     }
 
